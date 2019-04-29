@@ -1,0 +1,5 @@
+baseURL = "http://guruvia.com/"
+languageCode = "en-us"
+title = "Guruvia Welcomes You"
+ 
+theme = "forty"
